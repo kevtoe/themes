@@ -2,6 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   transpilePackages: ['@radix-ui/themes'],
+  distDir: '.next',
   async redirects() {
     return [
       {
