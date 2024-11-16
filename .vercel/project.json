@@ -1,10 +1,1 @@
-{
-    "projectId": "prj_your_project_id",
-    "orgId": "your_org_id",
-    "settings": {
-      "framework": "nextjs",
-      "buildCommand": "cd apps/playground && pnpm build",
-      "outputDirectory": "apps/playground/.next",
-      "rootDirectory": "apps/playground"
-    }
-  }
+{"projectId":"prj_hdN8OxLICDdqKBnkjIYCULSU21N5","orgId":"team_GedbIqrQj7GTEGdOmwCcnMGg"}
